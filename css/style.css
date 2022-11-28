@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+h1 {
+  font-size: 24px;
+  scrollbar-highlight-color: yellow;
+}
+
+p {
+  font-size: 16px;
+  color: red;
+  display: flex;
+  justify-content: flex-start;
+}
+
+body {
+  background: black;
+}
+
+ul {
+  color: aliceblue
+}
